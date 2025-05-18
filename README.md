@@ -1,8 +1,8 @@
 # code-kopi
 
-This is a monthly casual meetups for people working in tech. Hardware, software, devops, sysadmin etc. Whatever you call yourself, and you work in tech/IT/tech startup. Just join. 
+This is a monthly casual meetup for people working in tech. Hardware, software, devops, sysadmin etc. Whatever you call yourself, and you work in tech/IT/tech startup. Just join. 
 
-Happen on last saturday every month. 
+Happens on last saturday every month. 
 
 # Next event
 
@@ -13,6 +13,6 @@ Starbucks One Utama.
 
 # Guideline
 
-We talk anything, just don't try to sell us stuff or pitch to us. 
-More importantly don't be a jerk. 
-Guideline will be update as needed. 
+We talk about anything, just don't try to sell us stuff or pitch to us. 
+More importantly, don't be a jerk. 
+Guidelines will be update as needed. 
