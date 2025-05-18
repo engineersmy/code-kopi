@@ -8,7 +8,7 @@ Happen on last saturday every month.
 
 ```
 May 24th 2025
-Starbucks The Gardens Mid Valley.
+Starbucks One Utama.
 ```
 
 # Guideline
