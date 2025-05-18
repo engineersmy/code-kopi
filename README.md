@@ -11,6 +11,10 @@ May 24th 2025, 2pm
 Starbucks One Utama.
 ```
 
+# What to expect
+
+We talk tech, live, rant about tech and stuff. Bring a project or a toy if you want to make things interesting. 
+
 # Guideline
 
 We talk anything, just don't try to sell us stuff or pitch to us. 
