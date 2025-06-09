@@ -7,7 +7,7 @@ Happens on last saturday every month.
 # Next event
 
 ```
-May 24th 2025, 2pm
+June 28th 2025, 2pm
 Starbucks One Utama.
 ```
 
