@@ -8,7 +8,7 @@ Happens on last saturday every month.
 
 ```
 June 28th 2025, 2pm
-Starbucks One Utama.
+Starbucks One Utama. Beside nandos
 ```
 
 # What to expect
