@@ -6,10 +6,7 @@ Happens on last saturday every month.
 
 # Next event
 
-```
-June 28th 2025, 2pm
-Starbucks One Utama. Beside nandos
-```
+See https://tehtarik-n-code.github.io/
 
 # What to expect
 
